@@ -35,7 +35,7 @@ We wanted to implement more effects like reverb and a simple looper, but the har
 For the user to interact with the system, there are 3 potentiometers to change effect parameters with high precision, a rotary encoder to select the effect, and an LCD to display the selected effect and its parameters.
 
 ### Schematic
-![Final_project](https://github.gatech.edu/chartigan6/ece4180-final-proj/assets/69334/f7b2be95-79b7-40ee-afc6-f1a3b131c148)
+![f7b2be95-79b7-40ee-afc6-f1a3b131c148](https://github.com/user-attachments/assets/81ce6194-6b75-4525-ad64-39981af0ff22)
 
 ### If we had more time and resources
 
